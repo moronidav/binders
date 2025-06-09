@@ -1,7 +1,7 @@
-***Headline*** This Repo contains Jupyter Notebooks refactored into Binders for persistent, ephemeral operation and demonstration.
-
 # binders
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-TROPESS/binders/HEAD) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/moronidav/binders/blob/main/LICENSE)
+
+**Headline:** This Repo contains Jupyter Notebooks refactored into Binders for persistent, ephemeral operation and demonstration.
 
 # TROPESS Binder Notebooks
 
