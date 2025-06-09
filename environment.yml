@@ -1,10 +1,10 @@
 # execution guidance from commandline/terminal:
 # run the following commands:
 # to install environment: conda env create --file environment.yml
-# to activate environment: conda activate oco-arset-env
+# to activate environment: conda activate moronidav-binders
 # to deactivate environment: conda deactivate
-# to update environment: conda env update --file environment.yml --name oco-arset-env
-name: oco-arset-env
+# to update environment: conda env update --file environment.yml --name moronidav-binders
+name: moronidav-binders
 channels:
  - conda-forge
 dependencies:
